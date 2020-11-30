@@ -18,14 +18,13 @@ body {
 
 h1 {
     color: pink;
-    font-size: 175%;
+    font-size: 195%;
     text-align: center;
 }
 
 section {
     border: 1px solid pink;
     border-radius: 50px 20px;
-    opacity: 0.5;
     background-color: gray;
     height: 250px;
     overflow: auto;

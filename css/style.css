@@ -15,7 +15,8 @@ h1 {
 }
 
 section {
-    border: 1px solid pink;    
+    border: 1px solid pink;
+    border-radius: 50px 20px;
     background-color: purple;
     height: 250px;
     overflow: auto;

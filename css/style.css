@@ -43,9 +43,11 @@ h2 {
 }
 
 ul {
-    color: white;
     clear: right;
     width: 90%;
+}
+ul li::before {
+    color: white;
 }
 
 #chicken {

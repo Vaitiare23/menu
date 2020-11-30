@@ -4,14 +4,14 @@
 }
 
 h1 {
-    color: blue;
+    color: pink;
     font-size: 175%;
     text-align: center;
 }
 
 section {
-    border: 1px solid black;    
-    background-color: bisque;
+    border: 1px solid pink;    
+    background-color: purple;
     height: 250px;
     overflow: auto;
 }
@@ -32,15 +32,15 @@ ul {
 }
 
 #chicken {
-    background-color: brown;
+    background-color: white;
 }
 
 #pork {
-    background-color: darkorchid;
+    background-color: white;
 }
 
 #steak {
-    background-color: forestgreen;
+    background-color: white;
 }
 
 

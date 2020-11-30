@@ -13,6 +13,7 @@ p {
 body {
     
    background-image: linear-gradient(to right left, #2BC0E4, #EAECC6);
+   background-repeat: no-repeat;
 }
 
 h1 {

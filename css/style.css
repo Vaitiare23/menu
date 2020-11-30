@@ -4,6 +4,10 @@
   
 }
 
+p{ 
+    text-align: center;
+}
+
 body {
     background-color: gray;
 }

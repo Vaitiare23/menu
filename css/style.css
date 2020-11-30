@@ -3,7 +3,9 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   
 }
-body {background-color: coral;}
+body {
+    background-color: coral;
+}
 
 h1 {
     color: pink;

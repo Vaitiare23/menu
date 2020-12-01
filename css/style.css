@@ -46,20 +46,21 @@ ul {
 }
 
 ul li { padding: 5px 0px;
-        margin-left: 20px;    
+        margin-left: 33px;    
 }
 
 #drinks {
     background-color: #DB999C;
+}
+#desserts {
+    background-color: pink;
 }
 
 #snacks {
     background-color: #DB999C;
 }
 
-#desserts {
-    background-color: #DB999C;
-}
+
 
 
 /********** Desktop version **********/

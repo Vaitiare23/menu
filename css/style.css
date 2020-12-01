@@ -6,11 +6,6 @@
 
 body {background: #ECBD81;}
 
-p { 
-    text-align: center;
-    font-size: 100%;
-    color: pink;
-}
 
 
 h1 {  
@@ -22,12 +17,6 @@ h1 {
     
 }
 
-section {
-    border: 1px solid black;
-    background-color: rgba(225, 196, 255, 0.3) ; 
-    height: 250px;
-    overflow: auto;
-}
 
 h2 {
     float: right;
@@ -41,6 +30,14 @@ h2 {
    
 }
 
+section {
+    border: 1px solid black;
+    background-color: rgba(225, 196, 255, 0.3) ; 
+    height: 250px;
+    overflow: auto;
+}
+
+
 ul {
     clear: right;
     width: 90%;
@@ -48,7 +45,9 @@ ul {
   
 }
 
-ul li { padding: 5px 0px; }
+ul li { padding: 5px 0px;
+        margin-left: 20px;    
+}
 
 #drinks {
     background-color: #DB999C;

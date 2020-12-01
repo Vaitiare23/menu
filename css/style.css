@@ -6,6 +6,13 @@
 
 body {background: #ECBD81;}
 
+p { 
+    text-align: center;
+    font-size: 100%;
+    color: pink;
+}
+
+
 h1 {  
   color: #DB999C;
     font-family: 'Fugaz One';
